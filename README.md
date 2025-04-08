@@ -1,4 +1,4 @@
-hı
+![Image](https://files.catbox.moe/gvm61g.png)
 
 <!--
 **OthelloWealdmare-Aributa/OthelloWealdmare-Aributa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
